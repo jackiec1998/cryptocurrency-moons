@@ -285,3 +285,11 @@
     end_date: '2023-02-14'
     ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/1195pz3/new_moons_are_ready_round_36/j9kkryf/'
     ratio: 1.998
+    
+37:
+    source: 'https://reddit.com/11ytvrz'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_37_finalized.csv'
+    start_date: '2023-02-15'
+    end_date: '2023-03-14'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/11ytvrz/new_moons_are_ready_round_37/jdq73dc/'
+    ratio: 0.75
