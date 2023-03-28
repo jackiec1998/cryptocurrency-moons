@@ -1,0 +1,287 @@
+1:
+    source: 'https://reddit.com/haxfr1'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_1_finalized.csv'
+    start_date: '2020-05-13'
+    end_date: '2020-06-09'
+    ratio_source:
+    ratio:
+
+2:
+    source: 'https://reddit.com/hrsicp'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_2_finalized.csv'
+    start_date: '2020-06-10'
+    end_date: '2020-07-07'
+    ratio_source:
+    ratio:
+
+3:
+    source: 'https://reddit.com/i8hhlc'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_3_finalized.csv'
+    start_date: '2020-07-08'
+    end_date: '2020-08-04'
+    ratio_source:
+    ratio:
+
+4:
+    source: 'https://reddit.com/ipqrck'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_4_finalized.csv'
+    start_date: '2020-08-05'
+    end_date: '2020-09-01'
+    ratio_source:
+    ratio:
+
+5:
+    source: 'https://reddit.com/j71gdl'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_5_finalized.csv'
+    start_date: '2020-09-02'
+    end_date: '2020-09-29'
+    ratio_source:
+    ratio:
+    
+6:
+    source: 'https://reddit.com/jo7k0r'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_6_finalized.csv'
+    start_date: '2020-09-30'
+    end_date: '2020-10-27'
+    ratio_source:
+    ratio:
+    
+7:
+    source: 'https://reddit.com/k5k3vr'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_7_finalized.csv'
+    start_date: '2020-11-02'
+    end_date: '2020-11-29'
+    ratio_source:
+    ratio:
+
+8:
+    source: 'https://reddit.com/knbvst'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_8_finalized.csv'
+    start_date: '2020-11-25'
+    end_date: '2020-12-22'
+    ratio_source:
+    ratio:
+
+9:
+    source: 'https://reddit.com/l6gbvk'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_9_finalized.csv'
+    start_date: '2020-12-23'
+    end_date: '2021-01-19'
+    ratio_source:
+    ratio:
+
+10:
+    source: 'https://reddit.com/lrqe9w'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_10_finalized.csv'
+    start_date: '2021-01-20'
+    end_date: '2021-02-16'
+    ratio_source:
+    ratio:
+
+11:
+    source: 'https://reddit.com/mchmoy'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_11_finalized.csv'
+    start_date: '2021-02-17'
+    end_date: '2021-03-16'
+    ratio_source:
+    ratio:
+
+12:
+    source: 'https://reddit.com/mvq0d8'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_12_finalized.csv'
+    start_date: '2021-03-17'
+    end_date: '2021-04-13'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/mvq0d8/new_moons_are_ready_round_12/gvdgphy/'
+    ratio: 0.457
+
+13:
+    source: 'https://reddit.com/ngiy3t'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_13_finalized.csv'
+    start_date: '2021-04-14'
+    end_date: '2021-05-11'
+    ratio_source:
+    ratio:
+
+14:
+    source: 'https://reddit.com/o1mwu8'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_14_finalized.csv'
+    start_date: '2021-05-12'
+    end_date: '2021-06-08'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/o1mwu8/new_moons_are_ready_round_14/h21plel/'
+    ratio: 0.207
+
+15:
+    source: 'https://reddit.com/okffsf'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_15_finalized.csv'
+    start_date: '2021-06-09'
+    end_date: '2021-07-06'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/okffsf/new_moons_are_ready_round_15/h57ibfj/'
+    ratio: 0.304
+
+16:
+    source: 'https://reddit.com/p2nm0m'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_16_finalized.csv'
+    start_date: '2021-07-07'
+    end_date: '2021-08-03'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/p2nm0m/new_moons_are_ready_round_16/h8lohlu/'
+    ratio: 0.268
+
+17:
+    source: 'https://reddit.com/pkhtyc'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_17_finalized.csv'
+    start_date: '2021-08-04'
+    end_date: '2021-08-31'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/pkhtyc/new_moons_are_ready_round_17/hc3kjg0/'
+    ratio: 0.1891
+
+18:
+    source: 'https://reddit.com/q2uxly'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_18_finalized.csv'
+    start_date: '2021-09-01'
+    end_date: '2021-09-28'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/q2uxly/new_moons_are_ready_round_18/hfnwgqd/'
+    ratio: 0.269
+
+19:
+    source: 'https://reddit.com/qm65x3'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_19_finalized.csv'
+    start_date: '2021-09-29'
+    end_date: '2021-10-26'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/qm65x3/new_moons_are_ready_round_19/hj7kqwy/'
+    ratio: 0.287535
+    
+20:
+    source: 'https://reddit.com/r6q6ub'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_20_finalized.csv'
+    start_date: '2021-10-27'
+    end_date: '2021-11-23'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/r6q6ub/new_moons_are_ready_round_20/hmun99t/'
+    ratio: 0.201
+    
+21:
+    source: 'https://reddit.com/rrinwg'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_21_finalized.csv'
+    start_date: '2021-11-24'
+    end_date: '2021-12-21'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/rrinwg/new_moons_are_ready_round_21/hqgju54/'
+    ratio: 0.233
+
+22:
+    source: 'https://reddit.com/sdhrft'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_22_finalized.csv'
+    start_date: '2021-12-22'
+    end_date: '2022-01-18'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/sdhrft/new_moons_are_ready_round_22/hucszbb/'
+    ratio: 0.277
+
+23:
+    source: 'https://reddit.com/sztq1z'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_23_finalized.csv'
+    start_date: '2022-01-19'
+    end_date: '2022-02-15'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/sztq1z/new_moons_are_ready_round_23/hy5xw5z/'
+    ratio: 0.301
+
+24:
+    source: 'https://reddit.com/tn6rzd'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_24_finalized.csv'
+    start_date: '2022-02-16'
+    end_date: '2022-03-15'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/tn6rzd/new_moons_are_ready_round_24/i1zpiv2/'
+    ratio: 0.457
+
+25:
+    source: 'https://reddit.com/u87et2'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_25_finalized.csv'
+    start_date: '2022-03-22'
+    end_date: '2022-04-18'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/u87et2/new_moons_are_ready_round_25/i5jhw9u/'
+    ratio: 0.59
+
+26:
+    source: 'https://reddit.com/usomtm'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_26_finalized.csv'
+    start_date: '2022-04-13'
+    end_date: '2022-05-10'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/usomtm/new_moons_are_ready_round_26/i94u3bb/'
+    ratio: 0.856
+
+27:
+    source: 'https://reddit.com/vd5low'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_27_finalized.csv'
+    start_date: '2022-05-12'
+    end_date: '2022-06-08'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/vd5low/new_moons_are_ready_round_27/icilrfz/'
+    ratio: 0.5543
+
+28:
+    source: 'https://reddit.com/vycexu'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_28_finalized.csv'
+    start_date: '2022-06-08'
+    end_date: '2022-07-05'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/vycexu/new_moons_are_ready_round_28/ig1aqh3/'
+    ratio: 0.526
+
+29:
+    source: 'https://reddit.com/wlv0ml'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_29_finalized.csv'
+    start_date: '2022-07-06'
+    end_date: '2022-08-02'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/wlv0ml/new_moons_are_ready_round_29/ijvkben/'
+    ratio: 0.855
+
+30:
+    source: 'https://reddit.com/x8drvc'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_30_finalized.csv'
+    start_date: '2022-08-03'
+    end_date: '2022-08-30'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/x8drvc/new_moons_are_ready_round_30/inho5xk/'
+    ratio: 0.932
+
+31:
+    source: 'https://reddit.com/xwg482'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_31_finalized.csv'
+    start_date: '2022-08-31'
+    end_date: '2022-09-27'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/xwg482/new_moons_are_ready_round_31/ir7z0lc/'
+    ratio: 0.857
+
+32:
+    source: 'https://reddit.com/ykb2gl'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_32_finalized.csv'
+    start_date: '2022-09-28'
+    end_date: '2022-10-25'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/ykb2gl/new_moons_are_ready_round_32/iutze7r/'
+    ratio: 0.908
+
+33:
+    source: 'https://reddit.com/z8zye7'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_33_finalized.csv'
+    start_date: '2022-10-26'
+    end_date: '2022-11-22'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/z8zye7/new_moons_are_ready_round_33/iye6zlh/'
+    ratio: 0.4522
+
+34:
+    source: 'https://reddit.com/zxkxab'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_34_finalized.csv'
+    start_date: '2022-11-23'
+    end_date: '2022-12-20'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/zxkxab/new_moons_are_ready_round_34/j26t5si/'
+    ratio: 0.67
+
+35:
+    source: 'https://reddit.com/10l51nb'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_35_finalized.csv'
+    start_date: '2022-12-21'
+    end_date: '2023-01-17'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/10l51nb/new_moons_are_ready_round_35/j5wvhyf/'
+    ratio: 0.9
+
+36:
+    source: 'https://reddit.com/1195pz3'
+    data_source: 'https://reddit-meta-production.s3.amazonaws.com/distribution/publish/CryptoCurrency/round_36_finalized.csv'
+    start_date: '2023-01-18'
+    end_date: '2023-02-14'
+    ratio_source: 'https://reddit.com/r/CryptoCurrency/comments/1195pz3/new_moons_are_ready_round_36/j9kkryf/'
+    ratio: 1.998
