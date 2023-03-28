@@ -1,6 +1,6 @@
 # r/CryptoCurrency Moon Distribution Dataset
 
-Every 4 weeks, the subreddit r/CryptoCurrency distributions a cryptocurrency called Moons to its contributing users based on the karma they received during that 4 week period (with additional modifiers). Within the `/data/` directory contains the karma each user had during each 4 week interval that is used to determine how many Moons they'll receive. Each user within each CSV file will have a karma that then gets converted to Moons based on some ratio. The ratios, if available, are contained in `metadata.yaml` along with a source if available. Some rounds do not have Moon-to-Karma ratios.
+Every 4 weeks, the subreddit [r/CryptoCurrency](https://reddit.com/r/CryptoCurrency/) distributions a cryptocurrency called Moons to its contributing users based on the karma they received during that 4 week period (with additional modifiers). Within the `/data/` directory contains the karma each user had during each 4 week interval that is used to determine how many Moons they'll receive. Each user within each CSV file will have a karma that then gets converted to Moons based on some ratio. The ratios, if available, are contained in `metadata.yaml` along with a source if available. Some rounds do not have Moon-to-Karma ratios.
 
 ## Notes
 
